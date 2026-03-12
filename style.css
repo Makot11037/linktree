@@ -5,14 +5,14 @@
 
 
 body{
-    background-image: image-set("assets/biggerBackground.jpg");
+    background-image: image-set("Assets/biggerBackground.jpg");
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 main{
-    background-image: image-set("assets/background.jpg");
+    background-image: image-set("Assets/background.jpg");
     display: flex;
     flex-direction: column;
     margin-top: 50px;
@@ -71,5 +71,6 @@ main{
 #icons a{
     color: #502C50;
 }
+
 
 
